@@ -4,6 +4,7 @@ A collection of beginner to intermediate Arduino projects showcasing application
 <img src="https://techatronic.com/wp-content/uploads/2023/02/pixlr.webp">
 
 🚀 What’s Inside?
+
 This repo features a range of beginner to intermediate level projects, including:
 
 🌡️ Sensor-based projects (e.g., temperature, humidity, motion detection)
@@ -27,6 +28,7 @@ Each project includes:
 📄 A brief explanation of the logic and hardware used
 
 🎯 Goals
+
 The goal of this repository is to:
 
 Help beginners learn Arduino through hands-on practice
@@ -36,6 +38,7 @@ Provide examples of how to integrate sensors, actuators, and modules
 Encourage experimentation with real-world problem solving
 
 📂 How to Use
+
 Clone or download the repository
 
 Choose a project folder
