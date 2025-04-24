@@ -48,4 +48,4 @@ Follow the instructions in the README.md inside each project
 Upload the .ino file to your Arduino board
 
 Build, test, and have fun!
-<img src="https://as1.ftcdn.net/v2/jpg/02/70/28/78/1000_F_270287860_3WlTxQBpXF86h94gAMKPYIru0pJEP2VI.jpg">
+<img src="https://as1.ftcdn.net/v2/jpg/03/98/35/72/1000_F_398357240_dXC0m8d7yAhbGCHGBxO1jC904TxSIxSm.jpg">
