@@ -1,7 +1,7 @@
 # Arduino-Projects
 A collection of beginner to intermediate Arduino projects showcasing applications in automation, IoT, and sensor integration 🤖📡🔧. Includes clean code, circuit diagrams, and detailed documentation for each project. Ideal for learning microcontroller basics and building real-world embedded systems.
-https://techatronic.com/wp-content/uploads/2023/02/pixlr.webp
 
+<img src="https://techatronic.com/wp-content/uploads/2023/02/pixlr.webp">
 
 🚀 What’s Inside?
 This repo features a range of beginner to intermediate level projects, including:
